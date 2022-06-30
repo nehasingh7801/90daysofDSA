@@ -1,7 +1,13 @@
+import javax.swing.text.html.StyleSheet;
+
 public class fibonaccinumber {
     public static void main(String[] args) {
-        System.out.println(fibonacci(6)); 
+        System.out.println(fibonum(50)); 
         
+    }
+
+    static int fibonum(int n){
+        return (int) ((int)(Math.pow((1+Math.sqrt(5))/2, n))/Math.sqrt(5));
     }
 
     static int fibonacci(int n){
