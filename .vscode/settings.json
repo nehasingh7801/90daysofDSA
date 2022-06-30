@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "recursion",
-        "arrays"
+        "arrays",
+        "sorting"
     ]
 }
