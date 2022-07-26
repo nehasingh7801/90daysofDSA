@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "sorting",
         "recursion",
+        "linkedlist",
         "arrays",
-        "linkedlist"
+        "trees"
     ]
 }
